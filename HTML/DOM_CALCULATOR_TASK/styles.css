@@ -1,0 +1,25 @@
+.calculator {
+    max-width: 300px;
+    margin: 50px auto;
+  }
+  .form-control {
+    text-align: right;
+    font-size: 24px;
+  }
+
+  .btn-primary {
+    
+    background-color: darkgrey;
+    border-color: black;   
+}
+
+.btn-success {
+    
+    background-color: lightgray;
+    border-color: #000;
+}
+.btn-warning {
+    
+    background-color: #d2a00c;
+   
+}
