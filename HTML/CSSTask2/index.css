@@ -1,0 +1,166 @@
+.navbar {
+  border-radius: 0px;
+  margin-bottom: 0px;
+}
+.nav-bar {
+  margin-left: 20vw;
+}
+
+.nav-bar-item {
+  padding-left: 5vw;
+  font-size: 1.5vh;
+}
+
+.title-section-container {
+  background-color: #343a40;
+  height: 30vh;
+  color: white;
+  text-align: center;
+}
+
+.title-section-items {
+  padding-top: 10vh;
+}
+.title-section-items > h1 {
+  font-size: 4vh;
+}
+.title-section-items > p {
+  font-size: 1.5vh;
+}
+
+.home-section-content {
+  height: 55vh;
+}
+.home-section-content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 100%;
+}
+.home-section-content-items {
+  height: 50%;
+  width: 100%;
+  padding: 5vh 20vh;
+  margin-left: 15vh;
+}
+.home-section-content-items > h1 {
+  font-size: 4vh;
+}
+.home-section-content-items > p {
+  font-size: 1.5vh;
+}
+.home-section-content-img {
+  width: 35%;
+  height: 80%;
+  margin-inline: 15vh;
+  margin-top: 10vh;
+}
+
+.home-container-buttons-container {
+  width: 50%;
+  margin-inline: 30vw;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin: 2vh 0px 4vh 0px; /* Add margin for spacing */
+}
+.button {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border: none;
+  border-radius: 5px;
+  width: 8vw;
+  height: 3.8vh;
+  margin: 0px 2vw;
+}
+
+.button img {
+  max-width: 3vh; /* Adjust logo size */
+}
+.button h3 {
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  margin-top: 5px;
+  margin-right: 8px;
+}
+/* Button colors */
+.learn-more {
+  background-color: #c8c8c8; /* Grey background */
+}
+.videos {
+  background-color: #ef3f38; /* Red background */
+}
+.books {
+  background-color: #ff9900; /* Orange background */
+}
+
+.center-heading-container {
+  display: flex;
+  background-color: #343a40;
+  height: 15vh;
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
+.center-heading-items {
+  font-size: 1.5vh;
+}
+
+.awards-section {
+  margin: 5vh 0px;
+}
+
+.awards-container {
+  display: flex;
+  margin-top: 5vh;
+  height: 10vh;
+  justify-content: space-around;
+}
+
+.awards-container h4 {
+  font-size: 3.4vmin;
+  margin-top: -1vmin;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.awards-container img {
+  height: 5vh;
+  width: 5vh;
+  margin-top: -1.5vmin;
+}
+
+.awards-list-container {
+  display: flex;
+  height: 10vh;
+  justify-content: space-around;
+}
+
+.awards-list-item {
+  color: grey;
+  font-size: 1.2vh;
+  margin: 0.3vh 0px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: grey;
+  padding: 0.5vw 1vw;
+}
+
+.art-works-section {
+  margin: 5vh 0px;
+}
+.vertical-line {
+  width: 1px; /* Width of the line */
+  background-color: #ffffff; /* White background color */
+}
+
+.footer-content {
+  margin: 0px 1vw;
+  width: 20vw;
+}
+.list-works {
+  margin-left: 5vw;
+  font-size: 1.3vh;
+}

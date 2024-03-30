@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // let p1 = new Promise((resolve,reject)=>{
+        //     setTimeout(()=>{
+        //     resolve("p1 resolved");
+        //     },1000)
+        // })
+        // let p2 = new Promise((resolve,reject)=>{
+        //     setTimeout(()=>{
+        //     resolve("p2 resolved");
+        //     },2000)
+        // })
+        // let p3 = new Promise((resolve,reject)=>{
+        //     setTimeout(()=>{
+        //     resolve("p3 resolved");
+        //     },3000)
+        // })
+
+        // async function sample(){
+        //     let res1 = await p1;
+        //     let res2 = await p2;
+        //     let res3 = await p3;
+        //     console.log(res1);
+        //     console.log(res2);
+        //     console.log(res3);
+        // }
+
+        // sample();
+
+        async function getCitiesData(){
+            let result = await fetch("https://restcountries.com/v3.1/all")
+            let data  = await result.json()
+            console.log(data);
+           
+
+            console.log("inside")
+            console.log("inside")
+            console.log("inside")
+            console.log("inside")
+            console.log("inside")
+
+        }
+        getCitiesData()
+
+        console.log("1");
+        console.log("1");
+        console.log("1");console.log("1");
+        console.log("1");console.log("1");
+        console.log("1");console.log("1");
+    </script>
+</body>
+</html>
