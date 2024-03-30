@@ -1,0 +1,22 @@
+
+.card {
+    margin-bottom: 20px;
+  }
+
+.card-header{
+    background-color:darkgray;
+    margin-bottom:  5px;
+    color: black;
+}
+
+.card-img-top{
+    align-content: center;
+}
+
+.btn {
+    background-color: darkgray;
+    border-color: darkgray;
+    align-items: center;
+    color: black;
+}
+

@@ -1,0 +1,188 @@
+{
+    "location": "UNKNOWN",
+    "time": "Unknown",
+    "chain_of_thought": [
+        {
+            "code": "# This request needs following APIs from available ones: google_sea
+  rch, youtube\n# I already know API descriptions for all of them.\n# Use google s
+  earch to find popular Mukbang streams\nprint(google_search.search(query=\"most v
+  iewed Mukbang streams\"))",
+            "tool_executions": [
+                {
+            "tool
+  _name": "google_search","method_name": "search",
+                    "params": {
+                        "query": "most viewed Mukbang streams"
+                    },
+            "out
+  put": [{
+                        "snippet": "Mukbang. Just Chatting. Grand Th
+  eft Auto V. Valorant. Counter-Strike. Minecraft. Fortnite. Dota 2. World of Warc
+  raft. GTA5. Apex Legends. Call of Duty: Warzone. Escape from Tarkov. Teamfight T
+  actics. Diablo IV. Sports. Liveshow. Unknown. Rust. Slots & Casino. EA Sports FC
+   24. Special Events. Overwatch 2. Slots. Social. Music. Dead by Daylight. Hearth
+  stone. Virtual Casino. Street Fighter 6. Casino Jackpot. Tom Clancy's Rainbow Si
+  x Siege. StarCraft: Remastered. FIFA 23. Lost Ark. ASMR. PUBG MOBILE. PUBG: BATT
+  LEGROUNDS. Path of Exile. Rocket League. World of Tanks. Call of Duty: Modern Wa
+  rfare III. Genshin Impact. Travel & Outdoors. Free Fire. Old School RuneScape.\n
+  Independent. NIJISANJI. Hololive. NIJISANJI EN. 774 inc. .LIVE. Phase-Connect. N
+  eo-Porte. Virtual eSports Project. VEE. Re:AcT. hololive English. WACTOR. Atelie
+  r Live. PRISM Project. Propro Production. kawaii. AKA Virtual. HOLOSTARS. NoriPr
+  o. ISEGYE IDOL. VSPO! idol Corp. Masquerade. Pixela. VShojo. hololive Indonesia.
+   Upd8. Yume Reality. MyHolo TV. HOLOSTARS English. SNOWDROP. MAHA5. KAMITSUBAKI 
+  STUDIO. Polygon Project. VOICE-ORE. HAJITABI. MarbleCreators. AOI ID. Mythic Liv
+  e. VOMS Project. Vyugen. Tsunderia. Re:Memories. Amber Glow. Eilene Academy. Var
+  ium. ENTUM. MetanoiaLIVE. Monster Girls. GEMS COMPANY. Sugar Crush. Prism Virtua
+  l. NIJIGEN Project. lucid Multimedia. Akio AIR.","source_title": "Most Watched Mukbang Streamers, last 7 days - Streams Charts",
+                "u
+  rl": "https: //streamscharts.com/channels?game=mukbang"
+                    },
+                    {
+                        "snippet": "A mukbang or meokbang also known as an eating show, is an online audiovisual broadcast in which a host consumes various quantities
+   of food while interacting with the audience. The genre became popular in South 
+  Korea in the early 2010s, and has become a global trend since the mid-2010s. Var
+  ieties of foods ranging from pizza to noodles are consumed in front of a camera.
+   The purpose of mukbang is also sometimes educational, introducing viewers to re
+  gional specialties or gourmet spots. Mukbang. Duration: 20 minutes and 8 seconds
+  .20: 08. Example of a mukbang. Korean name. Hangul · 먹방 · Revised Romanization, m
+  eokbang. McCune–Reischauer, mŏkpang. IPA · [mʌk̚.p͈aŋ
+                        ]. Original word. Hangul · 
+  먹는 방송 · Hanja. 먹는 放送 · Revised Romanization, meongneun bangsong. McCune–Reischau
+  er, mŏngnŭn pangsong. IPA · [mʌŋ.nɯn.baŋ.soŋ
+                        ]. A mukbang may be either prerecord
+  ed or streamed live through a webcast on multiple streaming platforms such as Af
+  reecaTV, YouTube, TikTok, and Twitch. In the live version, the mukbang host chat
+  s with the audience while the audience types in real time in the live chat-room.
+   Eating shows are expanding their influence on internet broadcasting platforms a
+  nd serve as virtual communities and as venues for active communication among int
+  ernet users. Mukbangers from many different countries have gained considerable p
+  opularity on numerous social websites and have established the mukbang as a poss
+  ible viable alternative career path with a potential to earn a high income for y
+  oung South Koreans. By cooking and eating food on camera for a large audience, m
+  ukbangers generate income from advertising, sponsorships and endorsements, as we
+  ll as viewers' support. However, there has been growing criticism of mukbang's p
+  romotion of unhealthy eating habits, particularly eating disorders, animal cruel
+  ty and food waste. Contents. 1 Etymology; 2 Historical background and origins","source_title": "Mukbang - Wikipedia",
+                        "url": "https: //en.wikipedia.org/wiki/Mukbang"
+                    },
+                    {
+                "sn
+  ippet": "Most viewed Mukbang streams right now. Auto update. Customize table. Se
+  ttings. Channel name ... How to find out who is the most popular live channel ri
+  ght now? For example, you may want to know which English-language channel on Twi
+  tch is currently the most viewed. To do this, select English and Twitch in the r
+  ight sidebar. This will show that Caedrel Twitch channel has the largest number 
+  of viewers in League of Legends category with 23412 live viewers. That's how eas
+  y and quick it is to see the most watched live channel. You can gain exclusive a
+  ccess to a wide range of enhanced","source_title": "Live Mukbang 
+  Streamers Right Now · Streams Charts","url": "https://streamschar
+  ts.com/top-live-channels?game=mukbang"
+                    },
+                    {
+                        "snippet": "Coming up are some stars from the strange world of mukbang that ch
+  anged a LOT! Suggest a topic here to be turned into a video: http: //bit.ly/2kwqh
+  uh Subscribe for more! ▻ https: //goo.gl/pgcoq1 ◅ Stay updated ▻ https://goo.gl/J
+  yGcTt https: //goo.gl/5c8dzr ◅ For copyright queries or general inquiries please 
+  get in touch: hello@beamazed.com Legal Stuff. Unless otherwise created by BeAmaz
+  ed, licenses have ... 14M views · 10: 43 · Go to channel · I Investigated the Mos
+  t Obese City in America… Tyler Oliveira•11M views.",
+                "source_title": "Mukbangers That CHANGED A Lot - YouTube","url": "https://m.yo
+  utube.com/watch?v=ypzLusCRjC4"
+                    },
+                    {
+                "snipp
+  et": "10.1 Banzz (밴쯔) 10.2 [Dorothy
+                        ]도로시 10.3 KEEMI. 10.4 Nikocado Avocado. 10.5 
+  Stephanie Soo. 10.6 Yuka Kinoshita 木下ゆうか\nYuka Kinoshita is a massively popular 
+  Japanese mukbang streamer, with over 5 million subscribers on her Youtube channe
+  l. She has short videos that are more ASMR-based, and also slightly longer ones 
+  where she may gulf down a meal anywhere from 5,
+                        000 to approximately 12,
+                        000 calor
+  ies! Besides being entertaining and awe-inducing to watch, her channel is a love
+  ly gateway into modern Japanese cuisine.","source_title": "Mukban
+  g – Popular eating broadcast videos from South Korea","url": "htt
+  ps: //www.90daykorean.com/mukbang/"
+                    }
+                ]
+            }
+        ],
+        "observation": "[GoogleSearch.SearchResult(snippet=\"Mukbang. Just Chattin
+  g. Grand Theft Auto V. Valorant. Counter-Strike. Minecraft. Fortnite. Dota 2. Wo
+  rld of Warcraft. GTA5. Apex Legends. Call of Duty: Warzone. Escape from Tarkov. 
+  Teamfight Tactics. Diablo IV. Sports. Liveshow. Unknown. Rust. Slots & Casino. E
+  A Sports FC 24. Special Events. Overwatch 2. Slots. Social. Music. Dead by Dayli
+  ght. Hearthstone. Virtual Casino. Street Fighter 6. Casino Jackpot. Tom Clancy's
+   Rainbow Six Siege. StarCraft: Remastered. FIFA 23. Lost Ark. ASMR. PUBG MOBILE.
+   PUBG: BATTLEGROUNDS. Path of Exile. Rocket League. World of Tanks. Call of Duty
+  : Modern Warfare III. Genshin Impact. Travel & Outdoors. Free Fire. Old School R
+  uneScape.\\nIndependent. NIJISANJI. Hololive. NIJISANJI EN. 774 inc. .LIVE. Phas
+  e-Connect. Neo-Porte. Virtual eSports Project. VEE. Re:AcT. hololive English. WA
+  CTOR. Atelier Live. PRISM Project. Propro Production. kawaii. AKA Virtual. HOLOS
+  TARS. NoriPro. ISEGYE IDOL. VSPO! idol Corp. Masquerade. Pixela. VShojo. hololiv
+  e Indonesia. Upd8. Yume Reality. MyHolo TV. HOLOSTARS English. SNOWDROP. MAHA5. 
+  KAMITSUBAKI STUDIO. Polygon Project. VOICE-ORE. HAJITABI. MarbleCreators. AOI ID
+  . Mythic Live. VOMS Project. Vyugen. Tsunderia. Re:Memories. Amber Glow. Eilene 
+  Academy. Varium. ENTUM. MetanoiaLIVE. Monster Girls. GEMS COMPANY. Sugar Crush. 
+  Prism Virtual. NIJIGEN Project. lucid Multimedia. Akio AIR.\", source_title='Mos
+  t Watched Mukbang Streamers, last 7 days - Streams Charts', url='https: //streams
+  charts.com/channels?game=mukbang'), GoogleSearch.SearchResult(snippet=\"A mukban
+  g or meokbang also known as an eating show, is an online audiovisual broadcast i
+  n which a host consumes various quantities of food while interacting with the au
+  dience. The genre became popular in South Korea in the early 2010s, and has beco
+  me a global trend since the mid-2010s. Varieties of foods ranging from pizza to 
+  noodles are consumed in front of a camera. The purpose of mukbang is also someti
+  mes educational, introducing viewers to regional specialties or gourmet spots. M
+  ukbang. Duration: 20 minutes and 8 seconds.20: 08. Example of a mukbang. Korean n
+  ame. Hangul · 먹방 · Revised Romanization, meokbang. McCune–Reischauer, mŏkpang. I
+  PA · [mʌk̚.p͈aŋ
+        ]. Original word. Hangul · 먹는 방송 · Hanja. 먹는 放送 · Revised Romaniz
+  ation, meongneun bangsong. McCune–Reischauer, mŏngnŭn pangsong. IPA · [mʌŋ.nɯn.b
+  aŋ.soŋ
+        ]. A mukbang may be either prerecorded or streamed live through a webcast 
+  on multiple streaming platforms such as AfreecaTV, YouTube, TikTok, and Twitch. 
+  In the live version, the mukbang host chats with the audience while the audience
+   types in real time in the live chat-room. Eating shows are expanding their infl
+  uence on internet broadcasting platforms and serve as virtual communities and as
+   venues for active communication among internet users. Mukbangers from many diff
+  erent countries have gained considerable popularity on numerous social websites 
+  and have established the mukbang as a possible viable alternative career path wi
+  th a potential to earn a high income for young South Koreans. By cooking and eat
+  ing food on camera for a large audience, mukbangers generate income from adverti
+  sing, sponsorships and endorsements, as well as viewers' support. However, there
+   has been growing criticism of mukbang's promotion of unhealthy eating habits, p
+  articularly eating disorders, animal cruelty and food waste. Contents. 1 Etymolo
+  gy; 2 Historical background and origins\", source_title='Mukbang - Wikipedia', u
+  rl='https: //en.wikipedia.org/wiki/Mukbang'), GoogleSearch.SearchResult(snippet=\
+  "Most viewed Mukbang streams right now. Auto update. Customize table. Settings. 
+  Channel name ... How to find out who is the most popular live channel right now?
+   For example, you may want to know which English-language channel on Twitch is c
+  urrently the most viewed. To do this, select English and Twitch in the right sid
+  ebar. This will show that Caedrel Twitch channel has the largest number of viewe
+  rs in League of Legends category with 23412 live viewers. That's how easy and qu
+  ick it is to see the most watched live channel. You can gain exclusive access to
+   a wide range of enhanced\", source_title='Live Mukbang Streamers Right Now · St
+  reams Charts', url='https: //streamscharts.com/top-live-channels?game=mukbang'), 
+  GoogleSearch.SearchResult(snippet='Coming up are some stars from the strange wor
+  ld of mukbang that changed a LOT! Suggest a topic here to be turned into a video
+  : http: //bit.ly/2kwqhuh Subscribe for more! ▻ https://goo.gl/pgcoq1 ◅ Stay updat
+  ed ▻ https: //goo.gl/JyGcTt https://goo.gl/5c8dzr ◅ For copyright queries or gene
+  ral inquiries please get in touch: hello@beamazed.com Legal Stuff. Unless otherw
+  ise created by BeAmazed, licenses have ... 14M views · 10: 43 · Go to channel · I
+   Investigated the Most Obese City in America… Tyler Oliveira•11M views.', source
+  _title='Mukbangers That CHANGED A Lot - YouTube', url='https: //m.youtube.com/wat
+  ch?v=ypzLusCRjC4'), GoogleSearch.SearchResult(snippet='10.1 Banzz (밴쯔) 10.2 [Dor
+  othy
+        ]도로시 10.3 KEEMI. 10.4 Nikocado Avocado. 10.5 Stephanie Soo. 10.6 Yuka Kinosh
+  ita 木下ゆうか\\nYuka Kinoshita is a massively popular Japanese mukbang streamer, wit
+  h over 5 million subscribers on her Youtube channel. She has short videos that a
+  re more ASMR-based, and also slightly longer ones where she may gulf down a meal
+   anywhere from 5,
+        000 to approximately 12,
+        000 calories! Besides being entertainin
+  g and awe-inducing to watch, her channel is a lovely gateway into modern Japanes
+  e cuisine.', source_title='Mukbang – Popular eating broadcast videos from South 
+  Korea', url='https: //www.90daykorean.com/mukbang/')]\n"
+    }
+]
+}
